@@ -1,0 +1,36 @@
+{
+  "alpha_pattern": {},
+  "auto_mapping": null,
+  "base_model_name_or_path": "google-t5/t5-large",
+  "bias": "none",
+  "fan_in_fan_out": false,
+  "inference_mode": true,
+  "init_lora_weights": "loftq",
+  "layer_replication": null,
+  "layers_pattern": null,
+  "layers_to_transform": null,
+  "loftq_config": {
+    "loftq_bits": 4,
+    "loftq_iter": 1
+  },
+  "lora_alpha": 16,
+  "lora_dropout": 0.01,
+  "megatron_config": null,
+  "megatron_core": "megatron.core",
+  "modules_to_save": null,
+  "peft_type": "LORA",
+  "r": 2,
+  "rank_pattern": {},
+  "revision": null,
+  "target_modules": [
+    "q",
+    "o",
+    "v",
+    "wo",
+    "wi",
+    "k"
+  ],
+  "task_type": "SEQ_2_SEQ_LM",
+  "use_dora": true,
+  "use_rslora": false
+}

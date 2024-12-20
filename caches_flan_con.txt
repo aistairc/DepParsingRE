@@ -1,0 +1,2 @@
+/scratch/aae15163zd/cache/all_flan_seed42/aligned-packed-t5-v1_1-base-1024-100/
+/scratch/aae15163zd/cache/parsing/wikipedia-0-10-con/aligned-packed-t5-v1_1-base-1024/

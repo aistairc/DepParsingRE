@@ -1,7 +1,7 @@
 # DepParsingRE
 The implementation of "[Improving Relation Extraction by Sequence-to-sequence-based Dependency Parsing Pre-training](https://aclanthology.org/2025.coling-main.473/)"
 
-## Publications
+## Publication
 ```
 @inproceedings{asada-miwa-2025-improving,
     title = "Improving Relation Extraction by Sequence-to-sequence-based Dependency Parsing Pre-training",
@@ -20,6 +20,7 @@ The implementation of "[Improving Relation Extraction by Sequence-to-sequence-ba
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2025.coling-main.473/",
     pages = "7099--7105",
+}
 ```
 
 ## Acknowledgment
